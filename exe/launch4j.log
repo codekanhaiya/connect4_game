@@ -1,0 +1,21 @@
+
+
+Version:	3.50
+CmdLine:	D:\JavaProjects\Connect4.App\exe\connect4.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Create mutex:	MyGame
+Working dir:	D:\JavaProjects\Connect4.App\exe\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.004.000
+Java max ver:	
+JRE paths:	jre
+Check launcher:	D:\JavaProjects\Connect4.App\exe\jre\bin\javaw.exe (OK)
+Version string: 1.008.000_212 / 64-Bit (OK)
+Main class:	connect4GamePackage.gameMain
+Info:		Classpath not defined.
+Launcher:	D:\JavaProjects\Connect4.App\exe\jre\bin\javaw.exe
+Launcher args:	-classpath "D:\JavaProjects\Connect4.App\exe\connect4.exe" connect4GamePackage.gameMain
+Args length:	87/32768 chars
+Exit code:	0

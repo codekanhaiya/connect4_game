@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\JavaProjects\Connect4.App\out\artifacts\Connect4_App_jar\Connect4.App.jar</jar>
+  <outfile>D:\JavaProjects\Connect4.App\exe\connect4.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>true</restartOnCrash>
+  <manifest></manifest>
+  <icon>D:\JavaProjects\Connect4.App\src\icon\img.ico</icon>
+  <singleInstance>
+    <mutexName>MyGame</mutexName>
+    <windowTitle>MyWindow</windowTitle>
+  </singleInstance>
+  <classPath>
+    <mainClass>connect4GamePackage.gameMain</mainClass>
+  </classPath>
+  <jre>
+    <path>jre</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>1.4.0</minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>

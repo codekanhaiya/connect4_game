@@ -1,0 +1,1 @@
+This software is run on only Windows OS. JRE(Java Run Time Environment) must be available in the system to run the software.

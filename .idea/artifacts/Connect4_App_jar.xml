@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Connect4.App:jar">
+    <output-path>$PROJECT_DIR$/../Connect4.App/out/artifacts/Connect4_App_jar</output-path>
+    <root id="archive" name="Connect4.App.jar">
+      <element id="module-output" name="Connect4.App" />
+    </root>
+  </artifact>
+</component>
